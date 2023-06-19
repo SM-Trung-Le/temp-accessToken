@@ -1,0 +1,12 @@
+{
+  "name": "temp-accessToken",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SM-Trung-Le/temp-accessToken.git",
+  "author": "SM-Trung-Le <119839021+SM-Trung-Le@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "ethers": "^6.6.0"
+  }
+}
